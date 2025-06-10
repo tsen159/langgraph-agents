@@ -1,0 +1,10 @@
+langgraph
+langchain
+ipython
+langchain_community
+dotenv
+typing
+chromadb
+langchain_chroma
+langchain_google_genai
+pypdf

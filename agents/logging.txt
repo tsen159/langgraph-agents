@@ -1,0 +1,11 @@
+Your conversation log:
+You: Hi!
+AI: Hi there! How can I help you today?
+
+You: My name is Cathy
+AI: Hi Cathy! It's nice to meet you. How can I help you today, Cathy?
+
+You: So what's my name?
+AI: Your name is Cathy.
+
+End.
