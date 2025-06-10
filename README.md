@@ -9,7 +9,7 @@ LLM used is gemini-2.0-flash, since it's free.
 Check [this doc](https://python.langchain.com/docs/integrations/chat/google_generative_ai/) to see how to integrate Google's GenAI with LangChain. 
 
 
-The code works well on python 3.10.
+The code works well on Python 3.10.
 
 
 ### Directories
