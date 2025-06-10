@@ -53,7 +53,7 @@ text_splitter = RecursiveCharacterTextSplitter(
 pages_split = text_splitter.split_documents(pages)
 
 # Create a vector store from the chunks
-persist_directory = dir_name
+persist_directory = f"{dir_name}/chroma_db"
 collection_name = "stock_market"
 if not os.path.exists(persist_directory):
     os.makedirs(persist_directory)
